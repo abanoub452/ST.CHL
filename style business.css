@@ -1,0 +1,197 @@
+body
+{
+    
+    margin: 0;
+    padding: 0;
+    background-image: url(WhatsApp%20Image%202020-06-16%20at%204.39.03%20AM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+
+
+
+.pic
+{
+    background-image:  url(WhatsApp%20Image%202020-06-16%20at%204.39.03%20AM.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav1
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav
+{
+    display: inline-block;
+}
+.nav
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Ropoto" sans-serif;
+    font-size: 15px;
+    
+}
+.nav:hover
+{
+    border: 1px solid white;
+    color: darkorange;
+}
+.nav1
+{
+     display: inline-block;
+}
+.nav1
+{
+     color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Ropoto" sans-serif;
+    font-size: 15px;
+    
+}
+
+.nav1
+{
+    border: 1px solid white;
+}
+.nav1
+{
+    color: darkorange;
+}
+.bady
+{
+    font-family: monospace;
+}
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.hero
+{
+    color: antiquewhite;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 275px;
+    
+}
+.button
+{
+    margin-top: 30px;
+    margin-left: 50px
+   
+}
+
+.btn1
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.btn2
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+    
+}
+.btn1
+{
+    background-color: darkorange;
+    font-family: "Roboto" sans-serif;
+}
+.btn2
+{
+   font-family: "Roboto" sans-serif; 
+}
+.btn2:hover
+{
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+}
+.sign
+{
+     display: inline-block;
+}
+.sign
+{
+     color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Ropoto" sans-serif;
+    font-size: 18px;
+}
+.sign
+{
+    border: 1px solid white;
+}
+.sign:hover
+{
+    background-color:darkorange;
+    transition: all 0.5s ease-in;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
